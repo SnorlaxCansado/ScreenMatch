@@ -27,4 +27,5 @@ public class Principal {
         System.out.println("Tempo para maratonar a Série: " + lost.getDuracaoEmMinutos());
     }
 
+
 }
